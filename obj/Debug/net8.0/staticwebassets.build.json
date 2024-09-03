@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "tpssvkvNBPdvelC9OI18vjf0v99KgnVwxR13+nb1+bY=",
+  "Source": "Graphql_server",
+  "BasePath": "_content/Graphql_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Graphql_server\\wwwroot",
+      "Source": "Graphql_server",
+      "ContentRoot": "C:\\Users\\Laptop\\Desktop\\Graphql\\Graphql_server\\wwwroot\\",
+      "BasePath": "_content/Graphql_server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Laptop\\Desktop\\Graphql\\Graphql_server\\wwwroot\\bosko@a\\Lik1.jpg",
+      "SourceId": "Graphql_server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Desktop\\Graphql\\Graphql_server\\wwwroot\\",
+      "BasePath": "_content/Graphql_server",
+      "RelativePath": "bosko@a/Lik1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bosko@a\\Lik1.jpg"
+    }
+  ]
+}
